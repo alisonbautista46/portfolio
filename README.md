@@ -3,6 +3,7 @@ Containing all projects fun, interesting, and challenging!
 
 ### Table of Contents
 
+* How to use this Portfolio
 * Data Visualization Projects
     + Tidy Tuesdays
 * Games and Other Fun Projects
@@ -11,3 +12,4 @@ Containing all projects fun, interesting, and challenging!
     + [Audio Sythesizer](https://github.com/alisonbautista46/audio_synth)
 * Machine Learning
 
+### How to use this Portfolio
