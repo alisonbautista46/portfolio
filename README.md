@@ -5,7 +5,7 @@ Containing all projects fun, interesting, and challenging!
 
 * How to use this Portfolio
 * Data Visualization Projects
-    + Tidy Tuesdays
+    + [Tidy Tuesdays](https://github.com/alisonbautista46/tidy_tuesdays)
 * Games and Other Fun Projects
     + [Snake Game](https://github.com/alisonbautista46/snake_game)
     + [Brick Game](https://github.com/alisonbautista46/brick_game)
