@@ -1,4 +1,4 @@
-# Alison Bautista's Data Science Portfolio
+# Alison Bautista's Portfolio
 Containing all projects fun, interesting, and challenging!
 
 ### Table of Contents
