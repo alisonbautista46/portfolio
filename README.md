@@ -6,7 +6,7 @@ Containing all projects fun, interesting, and challenging!
 * Data Visualization Projects
     + [Tidy Tuesdays](https://github.com/alisonbautista46/tidy_tuesdays) _A compilation of data visualizations created using R_
     + [Roots of Change: How Planting More Trees Can Help Combat the Heat in Phoenix, AZ](https://storymaps.arcgis.com/stories/1aba4fbe760c4b29b703655c6a61f4c8) _An ArcGIS Story Map with elements created using ArcPro, QGIS, and kepler.gl_
-    + [Squirrels in NYC] (https://rpubs.com/alisonlange45/692843)
+    + [Squirrels in NYC](https://rpubs.com/alisonlange45/692843)
     + [Metro Blooms Pollinators]
       
 * Games
